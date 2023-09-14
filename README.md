@@ -12,7 +12,7 @@
 
 ## Result:
 
-http://ohmyevents.net/be_globe_party/index.html
+[http://ohmyevents.net/be_globe_party/index.html](http://ohmyevents.net/index.html)
 
 
 ## Thanks to all Contributors
